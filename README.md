@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Yuri 👋!
 
-<!--
-**YuriAoto/YuriAoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a mathematician :abacus: and theoretical chemisty :test_tube:+:computer:;
+- I'm a programmer :keyboard: with big enthusiasm in algorithm development;
+- I'm currently looking forward to apply my skills to a non-academic position;
 
-Here are some ideas to get you started:
+## My skills :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Numpy
+- Scipy
+- Pandas
+- Scikit-Learn
+- Linux
+- Debian
+- Bash
+- C++
+- LaTeX
+- PGF/Tikz
